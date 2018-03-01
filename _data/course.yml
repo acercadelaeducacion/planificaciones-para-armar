@@ -1,10 +1,6 @@
 title: Planificaciones para armar
 description: Construir tu planificación en la web
-<<<<<<< HEAD
 modules: [tutorial, contenidos, cronogramas, proyectos, notas, referencias]
-=======
-modules: [tutorial, contenidos, proyectos, cronogramas, notas, referencias]
->>>>>>> 136a5a44353c0cc9fc752453a57311f66802da94
 signups:
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
