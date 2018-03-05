@@ -2,6 +2,7 @@
 baseurl:
 markdown: kramdown
 permalink: /:categories/:title/
+disqus_shortname: #ingresar el shortname de disqus
 
 # Change this tracking code with your own tracking code
 ga_tracking_code: UA-5757664-19
